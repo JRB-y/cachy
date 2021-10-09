@@ -1,0 +1,14 @@
+{
+  "name": "cachy",
+  "version": "0.0.1",
+  "description": "A simple node file cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}

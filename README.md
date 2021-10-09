@@ -1,4 +1,7 @@
 # Cachy
+
+A minimal file cache system
+
 How it works?
 
     const cachy = require('./cachy')
